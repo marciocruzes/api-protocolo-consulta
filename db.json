@@ -1,0 +1,50 @@
+{
+  "gets": {
+    "Result": 1,
+    "Message": "Sucesso",
+    "Data": [
+        {
+            "titulo": "Protocolo",
+            "elementos": [
+                {
+                    "protocoloId": "39332120171011000002",
+                    "titulo": "",
+                    "status": "Em atendimento",
+                    "corStatus": "",
+                    "campos": [
+                        {
+                            "tipo": 1,
+                            "itens": [
+                                {
+                                    "chave": "TITULO",
+                                    "valor": "Protocolo"
+                                },
+                                {
+                                    "chave": "VALOR",
+                                    "valor": "39332120171011000002"
+                                }
+                            ]
+                        }
+                    ],
+                    "separador": "0"
+                }
+            ]
+        }
+    ]
+},
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
